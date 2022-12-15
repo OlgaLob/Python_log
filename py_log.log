@@ -1,0 +1,22 @@
+2022-12-15 15:46:29,265 INFO The values of a and b are (1+2j) and (3+4j).
+2022-12-15 15:46:29,267 INFO a/b successful with result: (0.44+0.08j).
+2022-12-15 15:46:29,267 INFO The values of a and b are (1+2j) and (3+4j).
+2022-12-15 15:46:29,268 INFO a+b successful with result: (4+6j).
+2022-12-15 15:48:37,163 INFO The values of a and b are (1+2j) and (3+4j).
+2022-12-15 15:48:37,163 INFO a/b successful with result: (0.44+0.08j).
+2022-12-15 15:48:37,163 INFO The values of a and b are (1+2j) and (3+4j).
+2022-12-15 15:48:37,164 INFO a+b successful with result: (4+6j).
+2022-12-15 15:51:20,932 INFO The values of a and b are (1+2j) and (3+4j).
+2022-12-15 15:51:20,932 INFO a - b successful with result: (-2-2j).
+2022-12-15 16:00:36,639 INFO The values of a and b are (1+2j) and (3+4j).
+2022-12-15 16:00:36,639 INFO a * b successful with result: (-5+10j).
+2022-12-15 16:24:22,789 INFO The values of a and b are (1+2j) and 0.
+2022-12-15 16:24:22,789 ERROR ZeroDivisionError
+Traceback (most recent call last):
+  File "c:/Users/пользователь/Desktop/Git_edu/Hello Python/HW6/log.py", line 15, in test_division
+    a/b
+ZeroDivisionError: complex division by zero
+2022-12-15 16:35:00,595 INFO The values of a is 4.
+2022-12-15 16:35:00,595 INFO square root a successful with result: 2.
+2022-12-15 16:44:31,611 INFO The value of 'a' is 100.
+2022-12-15 16:44:31,612 INFO 10 % of 100 a successful with result: 10.0.
