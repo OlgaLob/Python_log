@@ -20,3 +20,6 @@ ZeroDivisionError: complex division by zero
 2022-12-15 16:35:00,595 INFO square root a successful with result: 2.
 2022-12-15 16:44:31,611 INFO The value of 'a' is 100.
 2022-12-15 16:44:31,612 INFO 10 % of 100 a successful with result: 10.0.
+2022-12-15 21:49:26,971 INFO The values of 'a' and 'b' are (1+2j) and (3+4j).
+2022-12-15 21:49:26,971 INFO 'a / b' successful with result: (0.44+0.08j).
+2022-12-16 15:38:56,569 INFO (1+2j) - (3+4j) successful with result: (-2-2j).
